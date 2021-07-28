@@ -22,8 +22,8 @@ Please create these 2 pages:
 
 # Setup and Development
 
-1. Clone this repo `git clone git@github.com:graphprotocol/crypto-buddies.git`
-2. Make sure you are inside of the repo you just cloned, by running `cd crypto-buddies`
+1. Clone this repo `git clone git@github.com:CYBR-ai/dev-test-frontend.git`
+2. Make sure you are inside of the repo you just cloned, by running `cd dev-test-frontend`
 3. Check out a branch `git checkout -b <name>/challenge` (for example `anna/challenge`)
 4. Run `yarn` to install all dependencies
 5. Run `yarn develop` to start the app
